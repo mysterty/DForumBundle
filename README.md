@@ -96,6 +96,10 @@ Before setting up everything, this bundle requires that you install KnpPaginator
         template:
             pagination: KnpPaginatorBundle:Pagination:twitter_bootstrap_v3_pagination.html.twig
             sortable: KnpPaginatorBundle:Pagination:sortable_link.html.twig
+
+    # Configuration for assetic
+    assetic:
+        bundles:        [ 'DForumBundle' ]
  
     # Configuration for discutea forum
     discutea_forum:
