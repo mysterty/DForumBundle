@@ -33,7 +33,7 @@
             </trans-unit>
             <trans-unit id="c8">
                 <source>discutea.forum.category.addforum</source>
-                <target>Ajouter un forum</target>
+                <target>Ajouter un forum.</target>
             </trans-unit>
             <trans-unit id="c9">
                 <source>discutea.forum.category.position</source>
@@ -152,7 +152,7 @@
             <!-- Posts -->
             <trans-unit id="p1">
                 <source>discutea.forum.warning.preview</source>
-                <target>Attention ce message est en mode prévisualisation validez-le avant de quitter</target>
+                <target>Attention ce message est en mode prévisualisation. Validez-le avant de quitter.</target>
             </trans-unit>
             <trans-unit id="p2">
                 <source>discutea.forum.post.create</source>
@@ -188,7 +188,7 @@
             </trans-unit>
             <trans-unit id="p10">
                 <source>discutea.forum.post.editpost</source>
-                <target>Edition du message</target>
+                <target>Édition du message.</target>
             </trans-unit>
             <!-- Labels -->
             <trans-unit id="l1">
